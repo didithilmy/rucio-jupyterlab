@@ -1,3 +1,8 @@
+### Important Note
+This repo has been moved to [rucio/jupyterlab](https://github.com/rucio/jupyterlab) and will no longer be maintained.
+
+----
+
 # Rucio JupyterLab Extension
 
 ![Github Actions Status](https://github.com/didithilmy/rucio-jupyterlab/workflows/Build/badge.svg)
