@@ -1,5 +1,5 @@
 ### Important Note
-This repo has been moved to [rucio/jupyterlab](https://github.com/rucio/jupyterlab) and will no longer be maintained.
+This repo has been moved to [rucio/jupyterlab-extension](https://github.com/rucio/jupyterlab-extension) and will no longer be maintained.
 
 ----
 
